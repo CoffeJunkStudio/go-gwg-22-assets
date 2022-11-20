@@ -36,7 +36,7 @@
 "sail-01-7" = { object = "sail-01-7", z_local_frames = 16, z_frames = 16, x_frames = 5, width = 64, optical_size = 1.4 }
 
 [file."blend/harbour.blend"]
-"harbour-00" = { object = "harbour", z_frames = 6, width = 341, optical_size = 3.5 }
+"harbour-00" = { object = "harbour", z_frames = 6, width = 117, optical_size = 3.5 }
 
 [sail."basic"]
 mast_offset = 1.3
