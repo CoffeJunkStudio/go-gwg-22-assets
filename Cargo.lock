@@ -13,7 +13,7 @@ dependencies = [
 
 [[package]]
 name = "asset-config"
-version = "0.0.2"
+version = "0.1.0-alpha"
 dependencies = [
  "serde",
 ]
@@ -161,7 +161,7 @@ dependencies = [
 
 [[package]]
 name = "render-assets"
-version = "0.0.2"
+version = "0.1.0-alpha"
 dependencies = [
  "asset-config",
  "indicatif",
