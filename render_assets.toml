@@ -11,6 +11,7 @@
 
 [file."blend/fishes2.blend"]
 "grass-00" = { object = "grass", z_frames = 8, width = 16, optical_size = 2.3 }
+"grass-01" = { object = "grass-1", z_frames = 8, width = 16, optical_size = 2.3 }
 "shoe" = { object = "shoe", z_frames = 8, width = 16, optical_size = 1.7 }
 "starfish-00" = { object = "starfish-0", z_frames = 8, width = 16, optical_size = 2.1 }
 "starfish-01" = { object = "starfish-1", z_frames = 8, width = 16, optical_size = 1.9 }
