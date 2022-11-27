@@ -1,6 +1,6 @@
 
 [file."blend/fishes.blend"]
-"fish-00" = { object = "Fish.001", z_frames = 8, width = 16, optical_size = 5.3 }
+"fish-00" = { object = "Fish.001", z_frames = 16, width = 16, optical_size = 5.3 }
 "fish-01" = { object = "Fish.002", z_frames = 8, width = 16, optical_size = 5.2 }
 "fish-02" = { object = "Fish.003", z_frames = 8, width = 16, optical_size = 5.3 }
 "fish-03" = { object = "Fish.004", z_frames = 8, width = 16, optical_size = 5.5 }
